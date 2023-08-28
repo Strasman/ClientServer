@@ -1,6 +1,9 @@
 # ClientServer
 Simple social network server and client.
 
+The server is written in Java.
+The client is written in C++.
+
 The communication between the server and the client(s) will be
 performed using a binary communication protocol. A registered user will be
 able to follow other users and post messages.

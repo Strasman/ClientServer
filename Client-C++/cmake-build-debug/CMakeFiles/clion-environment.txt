@@ -1,0 +1,4 @@
+ToolSet: w64 9.0 (local)@C:\Users\elads\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6461.46\bin\mingw
+Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=C:/Users/elads/Desktop/לימודים מדמח/שנה ב/סמסטר א/תכנון מערכות/עבודה 3/assignment3/cpp/Boost_Echo_Client/makefile

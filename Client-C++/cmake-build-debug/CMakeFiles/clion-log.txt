@@ -1,0 +1,34 @@
+C:\Users\elads\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6461.46\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/elads/Desktop/לימודים מדמח/שנה ב/סמסטר א/תכנון מערכות/עבודה 3/assignment3/cpp/Boost_Echo_Client/makefile" -G "CodeBlocks - MinGW Makefiles" "C:\Users\elads\Desktop\לימודים מדמח\שנה ב\סמסטר א\תכנון מערכות\עבודה 3\assignment3\assignment3SPLcpp"
+-- The C compiler identification is GNU 11.2.0
+-- The CXX compiler identification is GNU 11.2.0
+-- Detecting C compiler ABI info
+CMake Error: Generator: execution of make failed. Make command was: C:/Users/elads/Desktop/לימודים מדמח/שנה ב/סמסטר א/תכנון מערכות/עבודה 3/assignment3/cpp/Boost_Echo_Client/makefile/makefile/makefile -f Makefile cmTC_fcd76/fast && 
+-- Detecting C compiler ABI info - failed
+-- Check for working C compiler: C:/Users/elads/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.46/bin/mingw/bin/gcc.exe
+CMake Error: Generator: execution of make failed. Make command was: C:/Users/elads/Desktop/לימודים מדמח/שנה ב/סמסטר א/תכנון מערכות/עבודה 3/assignment3/cpp/Boost_Echo_Client/makefile/makefile/makefile -f Makefile cmTC_2b286/fast && 
+-- Check for working C compiler: C:/Users/elads/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.46/bin/mingw/bin/gcc.exe - broken
+CMake Error at C:/Users/elads/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.46/bin/cmake/win/share/cmake-3.21/Modules/CMakeTestCCompiler.cmake:69 (message):
+  The C compiler
+
+    "C:/Users/elads/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.46/bin/mingw/bin/gcc.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: C:/Users/elads/Desktop/לימודים מדמח/שנה ב/סמסטר א/תכנון מערכות/עבודה 3/assignment3/assignment3SPLcpp/cmake-build-debug/CMakeFiles/CMakeTmp
+    
+    Run Build Command(s):C:/Users/elads/Desktop/לימודים מדמח/שנה ב/סמסטר א/תכנון מערכות/עבודה 3/assignment3/cpp/Boost_Echo_Client/makefile/makefile/makefile -f Makefile cmTC_2b286/fast && The system cannot find the file specified
+    Generator: execution of make failed. Make command was: C:/Users/elads/Desktop/לימודים מדמח/שנה ב/סמסטר א/תכנון מערכות/עבודה 3/assignment3/cpp/Boost_Echo_Client/makefile/makefile/makefile -f Makefile cmTC_2b286/fast && 
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/elads/Desktop/לימודים מדמח/שנה ב/סמסטר א/תכנון מערכות/עבודה 3/assignment3/assignment3SPLcpp/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "C:/Users/elads/Desktop/לימודים מדמח/שנה ב/סמסטר א/תכנון מערכות/עבודה 3/assignment3/assignment3SPLcpp/cmake-build-debug/CMakeFiles/CMakeError.log".
